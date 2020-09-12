@@ -1,0 +1,7 @@
+# License
+
+The license for this project is based on the GNU General Public License v2.0 with some additions for security reasons. Because of the sensitive topic **commercial use and distribution is prohibited**. This is just a project to serve an **educational purpose**, so commercial distribution would not be an option and we want to protect people by refusing it. Also we cannot give any warranty for this project and it is not intended to be used in a any scenario but for testing and education (WITHOUT reading data of a real diabetics Nightscout site), and a distribution outside this repository could lead to missunderstandings regarding the code security and use case.
+
+WE PROVIDE THIS SOFTWARE AND THE HARDWARE-DOCUMENTATION "AS IS" WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND. DO NOT USE IT IN A REAL WORLD SCENARIO, ONLY FOR EDUCATIONAL PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR ANYTHING YOU DO WITH THE PROVIDED FILES (Software, Documentation).
+
+Excluding the parts containing **commercial use and distribution** (we already specified above), the [GNU General Public License v2.0](https://choosealicense.com/licenses/gpl-2.0/) describes how you can use this project. The provided link shows the GNU General Public License v2.0 in full length, also containing the overwritten parts - please ignore them while reading the text, as they are not part of this license.
