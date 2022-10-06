@@ -107,4 +107,4 @@ These are some of the features that definitely need to be worked on. It is not a
 
 ## License
 
-The license for this project is based on GNU General Public License v2.0 but there are **further restrictions** for security reasons. You can find the license in [LICENSE.md](https://github.com/Schimpi/SugarLight/blob/master/LICENSE.md).
+The license for this project is based on GNU General Public License v2.0 but there are **further restrictions** for safety reasons. You can find the license in [LICENSE.md](https://github.com/Schimpi/SugarLight/blob/master/LICENSE.md).
