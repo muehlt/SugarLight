@@ -45,7 +45,7 @@ You may also want to twist your LED a little bit to the center of your breadboar
 You should also cover the small LEDs on the Board (two in my case) so you do not get confused by the blue color they may emmit.
 
 ## Programs
-**Do not just copy and paste the code!** Since this is an educational project you need to be able to understand everything you do and load onto your board. If you have any question feel free to [reach out to me](mailto:schimpi@gmx.at).
+**Do not just copy and paste the code!** Since this is an educational project you need to be able to understand everything you do and load onto your board. If you have any question feel free to reach out.
 
 
 There are **2 versions** of the program. 
