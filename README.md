@@ -25,7 +25,7 @@ If the light is blinking, the delta value from the Nightscout site is above a po
 - A Nightscout site ([Click here to see what Nightscout is](http://www.nightscout.info/))
 
 **HARDWARE**
-- An ESP8266 NodeMCU Board ([Amazon link to my board](https://www.amazon.de/gp/product/B07DRF9YTV/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1))
+- An ESP8266 NodeMCU Board
 - A common anode RGB LED (you can also use a common cathode LED but you will need to remove all the __1023-__ in __void showColor__ and wire the common pin to ground)
 - Resistors that fit your LED
 - A breadboard (or wires and a soldering iron)
